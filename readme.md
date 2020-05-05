@@ -1,5 +1,7 @@
 # Heroes of Pymoli :video_game:
 
+![Fantasy](Images/Fantasy.png)
+
 Report that breaks down a game's purchasing data into meaningful insights.
 
 Final report include each of the following:
@@ -67,6 +69,8 @@ Final report include each of the following:
 
 
 # Academy of Py :nerd_face:
+
+![Education](Images/education.png)
 
 Analyze the district-wide standardized test results. Aggregate the data to and showcase obvious trends in school performance.
 
