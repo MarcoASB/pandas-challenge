@@ -1,5 +1,5 @@
 
-# Heroes Of Pymoli Data Analysis  :vide_game:
+# Heroes Of Pymoli Data Analysis  :video_game:
 
 ## Analysis
 * Player Count
