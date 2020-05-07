@@ -1,6 +1,6 @@
-# PyCity Schools Analysis
+# PyCity Schools Analysis  :nerd_face:
 
-## Analysis :nerd_face:
+## Analysis 
 * District Summary
 * School Summary
 * Top Performing Schools (By Passing Rate)
