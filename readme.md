@@ -24,7 +24,6 @@ Report that breaks down a game's purchasing data into meaningful insights.
   * Average Purchase Total per Person by Gender
 
 ### Age Demographics
-
 * The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
   * Purchase Count
   * Average Purchase Price
@@ -32,14 +31,14 @@ Report that breaks down a game's purchasing data into meaningful insights.
   * Average Purchase Total per Person by Age Group
 
 ### Top Spenders
-* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+* The top 5 spenders in the game by total purchase value:
   * SN
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
 
 ### Most Popular Items
-* Identify the 5 most popular items by purchase count, then list (in a table):
+* The 5 most popular items by purchase count:
   * Item ID
   * Item Name
   * Purchase Count
@@ -47,7 +46,7 @@ Report that breaks down a game's purchasing data into meaningful insights.
   * Total Purchase Value
 
 ### Most Profitable Items
-* Identify the 5 most profitable items by total purchase value, then list (in a table):
+* The 5 most profitable items by total purchase value:
   * Item ID
   * Item Name
   * Purchase Count
@@ -62,7 +61,7 @@ Report that breaks down a game's purchasing data into meaningful insights.
 Analyze the district-wide standardized test results. Aggregate the data to and showcase obvious trends in school performance.
 
 ### District Summary
-* Create a high level snapshot (in table form) of the district's key metrics, including:
+* Key metrics:
   * Total Schools
   * Total Students
   * Total Budget
@@ -73,7 +72,7 @@ Analyze the district-wide standardized test results. Aggregate the data to and s
   * Overall Passing Rate (Average of the above two)
 
 ### School Summary
-* Create an overview table that summarizes key metrics about each school, including:
+* Key metrics summary of each school:
   * School Name
   * School Type
   * Total Students
@@ -86,7 +85,7 @@ Analyze the district-wide standardized test results. Aggregate the data to and s
   * Overall Passing Rate (Average of the above two)
 
 ### Top Performing Schools (By Passing Rate)
-* Create a table that highlights the top 5 performing schools based on Overall Passing Rate. Include:
+* Top 5 performing schools based on Overall Passing Rate:
   * School Name
   * School Type
   * Total Students
@@ -99,16 +98,17 @@ Analyze the district-wide standardized test results. Aggregate the data to and s
   * Overall Passing Rate (Average of the above two)
 
 ### Bottom Performing Schools (By Passing Rate)
-* Create a table that highlights the bottom 5 performing schools based on Overall Passing Rate. Include all of the same metrics as above.
+* Tble of the bottom 5 performing schools based on Overall Passing Rate. 
+* Include all of the same metrics as above.
 
 ### Math Scores by Grade\*\*
-* Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+* Table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ### Reading Scores by Grade
-* Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+* Table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ### Scores by School Spending
-* Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
+* Table that breaks down school performances based on average Spending Ranges (Per Student):
   * Average Math Score
   * Average Reading Score
   * % Passing Math
@@ -116,7 +116,7 @@ Analyze the district-wide standardized test results. Aggregate the data to and s
   * Overall Passing Rate (Average of the above two)
 
 ### Scores by School Size
-* Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
+* The above breakdown, but this time school groups based on a reasonable approximation of school size (Small, Medium, Large).
 
 ### Scores by School Type
-* Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
+* The above breakdown, but this time school groups based on school type (Charter vs. District).
