@@ -1,30 +1,22 @@
 # Heroes of Pymoli :video_game:
 
-![Fantasy](Images/Fantasy.png)
-
 Report that breaks down a game's purchasing data into meaningful insights.
 
-Final report include each of the following:
-
 ### Player Count
-
 * Total Number of Players
 
 ### Purchasing Analysis (Total)
-
 * Number of Unique Items
 * Average Purchase Price
 * Total Number of Purchases
 * Total Revenue
 
 ### Gender Demographics
-
 * Percentage and Count of Male Players
 * Percentage and Count of Female Players
 * Percentage and Count of Other / Non-Disclosed
 
 ### Purchasing Analysis (Gender)
-
 * The below each broken by gender
   * Purchase Count
   * Average Purchase Price
@@ -40,7 +32,6 @@ Final report include each of the following:
   * Average Purchase Total per Person by Age Group
 
 ### Top Spenders
-
 * Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
   * SN
   * Purchase Count
@@ -48,7 +39,6 @@ Final report include each of the following:
   * Total Purchase Value
 
 ### Most Popular Items
-
 * Identify the 5 most popular items by purchase count, then list (in a table):
   * Item ID
   * Item Name
@@ -57,7 +47,6 @@ Final report include each of the following:
   * Total Purchase Value
 
 ### Most Profitable Items
-
 * Identify the 5 most profitable items by total purchase value, then list (in a table):
   * Item ID
   * Item Name
@@ -70,14 +59,9 @@ Final report include each of the following:
 
 # Academy of Py :nerd_face:
 
-![Education](Images/education.png)
-
 Analyze the district-wide standardized test results. Aggregate the data to and showcase obvious trends in school performance.
 
-Final report include each of the following:
-
 ### District Summary
-
 * Create a high level snapshot (in table form) of the district's key metrics, including:
   * Total Schools
   * Total Students
@@ -89,7 +73,6 @@ Final report include each of the following:
   * Overall Passing Rate (Average of the above two)
 
 ### School Summary
-
 * Create an overview table that summarizes key metrics about each school, including:
   * School Name
   * School Type
@@ -103,7 +86,6 @@ Final report include each of the following:
   * Overall Passing Rate (Average of the above two)
 
 ### Top Performing Schools (By Passing Rate)
-
 * Create a table that highlights the top 5 performing schools based on Overall Passing Rate. Include:
   * School Name
   * School Type
@@ -117,19 +99,15 @@ Final report include each of the following:
   * Overall Passing Rate (Average of the above two)
 
 ### Bottom Performing Schools (By Passing Rate)
-
 * Create a table that highlights the bottom 5 performing schools based on Overall Passing Rate. Include all of the same metrics as above.
 
 ### Math Scores by Grade\*\*
-
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ### Reading Scores by Grade
-
 * Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ### Scores by School Spending
-
 * Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
   * Average Math Score
   * Average Reading Score
@@ -138,9 +116,7 @@ Final report include each of the following:
   * Overall Passing Rate (Average of the above two)
 
 ### Scores by School Size
-
 * Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
 ### Scores by School Type
-
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
