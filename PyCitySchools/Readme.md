@@ -1,5 +1,5 @@
 # PyCity Schools Analysis  :nerd_face:
-
+![Education](../Images/education.png)
 ## Analysis 
 * District Summary
 * School Summary
